@@ -3,9 +3,6 @@ Primeiro trabalho de Eng de Software 2.
 No github, criar um projeto e adicione todos os integrantes das equipes.
 E então cada membro deve definir uma tarefa distinta
 a ser executada. 
-<<<<<<< HEAD
 edição da "Júlia Fick".
-=======
 
 edição do Matheus
->>>>>>> 44d55d182676c3f5fff85702dc6f106b785caeff
